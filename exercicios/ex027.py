@@ -1,4 +1,6 @@
-"""Faça um Programa que leia três números e mostre-os em ordem decrescente."""
+"""
+Faça um Programa que leia três números e mostre-os em ordem decrescente.
+"""
 
 a = int(input('Insira o primeiro número: '))
 b = int(input('Insira o segundo número: '))

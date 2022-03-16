@@ -1,4 +1,7 @@
-"""Faça um programa que, dado um conjunto de N números, determine o menor valor, o maior valor e a soma dos valores."""
+"""
+Faça um programa que, dado um conjunto de N números, determine o menor valor, 
+o maior valor e a soma dos valores.
+"""
 
 quantity = int(input('\nQuantos números você deseja calcular? '))
 soma = 0

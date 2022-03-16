@@ -1,4 +1,6 @@
-"""Faça um programa que calcule o mostre a média aritmética de N notas."""
+"""
+Faça um programa que calcule o mostre a média aritmética de N notas.
+"""
 
 quantity = int(input('\nInsira a quantidade de notas ----> '))
 media = 0

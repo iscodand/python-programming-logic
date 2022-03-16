@@ -1,6 +1,9 @@
-"""Tendo como dado de entrada a altura (h) de uma pessoa, construa um algoritmo que calcule seu peso ideal, utilizando as seguintes fórmulas:
+"""
+Tendo como dado de entrada a altura (h) de uma pessoa, construa um algoritmo que calcule 
+seu peso ideal, utilizando as seguintes fórmulas:
 Para homens: (72.7*h) - 58
-Para mulheres: (62.1*h) - 44.7"""
+Para mulheres: (62.1*h) - 44.7
+"""
 
 sexo = int(input(
     'Vamos calcular seu peso ideal. Insira [1] se você for homem e [2] se você for mulher. '))

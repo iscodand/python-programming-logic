@@ -1,4 +1,7 @@
-"""Faça um Programa que peça a temperatura em graus Celsius, transforme e mostre em graus Fahrenheit."""
+"""
+Faça um Programa que peça a temperatura em graus Celsius, 
+transforme e mostre em graus Fahrenheit.
+"""
 
 celsius = float(input('Insira a temperatura em graus Celsius: '))
 

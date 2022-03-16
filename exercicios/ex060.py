@@ -1,4 +1,7 @@
-"""Faça um programa que peça 10 números inteiros, calcule e mostre a quantidade de números pares e a quantidade de números impares."""
+"""
+Faça um programa que peça 10 números inteiros, calcule e mostre a quantidade de números pares 
+e a quantidade de números impares.
+"""
 
 count_par = 0
 count_impar = 0

@@ -1,4 +1,6 @@
-"""Altere o programa anterior para mostrar no final a soma dos números."""
+"""
+Altere o programa anterior para mostrar no final a soma dos números.
+"""
 
 num = int(input('Insira o 1° número ----> '))
 num2 = int(input('Insira o 2° número ----> '))

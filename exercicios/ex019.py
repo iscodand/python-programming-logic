@@ -1,4 +1,6 @@
-"""Faça um Programa que peça dois números e imprima o maior deles."""
+"""
+Faça um Programa que peça dois números e imprima o maior deles.
+"""
 
 num1 = float(input('Insira um número: '))
 num2 = float(input('Insira mais um número: '))

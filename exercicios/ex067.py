@@ -1,4 +1,7 @@
-"""Faça um programa que peça um número inteiro e determine se ele é ou não um número primo. Um número primo é aquele que é divisível somente por ele mesmo e por 1."""
+"""
+Faça um programa que peça um número inteiro e determine se ele é ou não um número primo. 
+Um número primo é aquele que é divisível somente por ele mesmo e por 1.
+"""
 
 num = int(input('Insira um número ----> '))
 count = 0

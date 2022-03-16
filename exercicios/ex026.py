@@ -1,4 +1,7 @@
-"""Faça um programa que pergunte o preço de três produtos e informe qual produto você deve comprar, sabendo que a decisão é sempre pelo mais barato."""
+"""
+Faça um programa que pergunte o preço de três produtos e informe qual produto você deve 
+comprar, sabendo que a decisão é sempre pelo mais barato.
+"""
 
 preco1 = float(input('Informe o preço do primeiro produto: '))
 preco2 = float(input('Informe o preço do segundo produto: '))
