@@ -31,6 +31,8 @@ while True:
     for i in range(1, 8):
         note = float(input('Nota: '))
         notelist.append(note)
+
+    # Usei a mesma estratégia do programa anterior, organizando as notas em ordem crescente
     notelist.sort()
 
     print('\n')
@@ -40,6 +42,7 @@ while True:
     print(f'Melhor nota: {max(notelist)}')
     print(f'Pior nota: {min(notelist)}')
 
+    # Removi a melhor e a pior nota, para poder tirar a média das demais
     notelist.pop(6)
     notelist.pop(0)
     media_note = sum(notelist) / len(notelist)
