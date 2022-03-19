@@ -46,10 +46,12 @@ while True:
     print(f'Quarto Salto: {heelslist[3]} m')
     print(f'Quinto Salto: {heelslist[4]} m')
 
+    # Organizei a lista para tirar o melhor e o pior salto
     heelslist.sort()
     print(f'\nMelhor Salto: {max(heelslist)} m')
     print(f'Pior Salto: {min(heelslist)} m')
 
+    # Dei um "pop" na lista, removendo o melhor e o pior salto, para assim conseguir tirar a média dos demais
     heelslist.pop(4)
     heelslist.pop(0)
     media_heels = sum(heelslist) / len(heelslist)
